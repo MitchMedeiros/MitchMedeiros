@@ -1,12 +1,12 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=50>&nbsp;
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=4000&pause=1500&multiline=true&width=62&lines=Hello+World!+%7C++Welcome+to+my+GitHub+profile">&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=4000&pause=1500&multiline=true&width=628&lines=Hello+World!+%7C++Welcome+to+my+GitHub+profile">&nbsp;
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </div>
 
 <h3> I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. I'm also excited by quantitative trading and financial modeling.</h3>
 
-* 📚 Currently learning Plotly Dash and Tableau 
+* 📚 Currently learning Plotly Dash and Tableau
 
 * 📈 I'm working on a [trading optimization app](https://backtest.fi)
 
