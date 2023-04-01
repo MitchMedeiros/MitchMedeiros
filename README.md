@@ -4,7 +4,11 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </div>
 
-<h3> I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. I'm also excited by quantitative trading and financial modeling.</h3>
+```shell
+I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. 
+I'm also excited by quantitative trading and financial modeling.
+```
+
 
 * 📚 Currently learning Plotly Dash and Tableau
 
@@ -41,8 +45,9 @@
 ### &nbsp; `GitHub Stats`
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=tokyonight-duo&hide_border=true&border_radius=40">
-<img src="https://media1.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif?cid=ecf05e47meru8m5ql11q0ilubiugolyu8cqrlqanbjnj5xh5&rid=giphy.gif&ct=g" height="180" width="180">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=a354eb05&color=ffffff&line=ebebeb&point=ebebeb&area=true&hide_border=true">
+<img src="https://media1.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif?cid=ecf05e47meru8m5ql11q0ilubiugolyu8cqrlqanbjnj5xh5&rid=giphy.gif&ct=g" width="175">
+<br></br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=a354eb25&color=ffffff&line=ebebeb&point=ebebeb&area=true&hide_border=true">
 </div>
     
     
