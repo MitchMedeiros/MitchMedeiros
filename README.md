@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </div>
 
-```shell
+```python
 I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. 
 I'm also excited by quantitative trading and financial modeling.
 ```
