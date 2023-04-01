@@ -1,15 +1,13 @@
 # Hello ![waving_hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile
 
-## I'm a Data Analyst
+#### I'm a Data Analyst with a background in particle physics and a passion for data analytics and quantitative analysis. I'm also excited by the topics of quantitative trading and understanding financial markets.  
 
-I have a background in particle physics and a passion for data analytics and quantitative analysis. I also really enjoy the topics of quantitative trading and understanding financial markets.  
-
-* 🌍  I'm based in the US 
-* 🖥️  See my portfolio at [mitchm.net](https://mitchm.net) 
-* 🚀  I'm currently working on [a trade optimization application](https://backtest.fi) 
-* 🧠  I'm learning Plotly Dash and Tableau right now 
-* 🤝  I'm open to collaborating on data analysis and quantitative finance 
-* ⚡  I love extreme sports, chess, and cats 🐈
+* 🖥️ I've created a portfolio at [mitchm.net](https://mitchm.net) 
+* 📈 I'm working on a [trade optimization app](https://backtest.fi) 
+* 📚 Currently learning Plotly Dash and Tableau 
+* 🤝 Open to collaborating on quantitative finance or data visualization
+* 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇦🇱🇲🇽 
+* 🏔️ I love extreme sports, cats 🐈, and chess
 
 ### Skills 
 
@@ -41,7 +39,8 @@ I have a background in particle physics and a passion for data analytics and qua
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="44" height="44"> 
 </a>
   
-<a href="https://www.github.com/MitchMedeiros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="44" height="44"> 
+<a href="https://www.github.com/MitchMedeiros" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="44" height="44"> 
 </a> 
 </p>
 
