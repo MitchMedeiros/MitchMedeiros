@@ -1,15 +1,15 @@
-# Hello ![waving_hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile
+# Welcome ![waving_hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) to my profile
 
-#### I'm a Data Analyst with a background in particle physics and a passion for data analytics and quantitative analysis. I'm also excited by the topics of quantitative trading and understanding financial markets.  
+### I'm a Data Analyst with a background in particle physics and a passion for data and quantitative analysis. I'm also excited by quantitative trading and financial modeling.  
 
-* 🖥️ I've created a portfolio at [mitchm.net](https://mitchm.net) 
+* 🖥️ My portfolio is at [mitchm.net](https://mitchm.net) 
 * 📈 I'm working on a [trade optimization app](https://backtest.fi) 
 * 📚 Currently learning Plotly Dash and Tableau 
 * 🤝 Open to collaborating on quantitative finance or data visualization
 * 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇦🇱🇲🇽 
-* 🏔️ I love extreme sports, cats 🐈, and chess
+* 🏔️ I love extreme sports, cats 🐈, and chess♟️
 
-### Skills 
+### Skills
 
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -46,7 +46,7 @@
 
 <b>
 My GitHub Stats
-  
+
 </b>
 
 <a href="http://www.github.com/MitchMedeiros">
