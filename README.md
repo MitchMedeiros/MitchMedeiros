@@ -44,12 +44,5 @@
 </a> 
 </p>
 
-<b>
-My GitHub Stats
-
-</b>
-
-<a href="http://www.github.com/MitchMedeiros">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MitchMedeiros&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
-</a>
-<a href="http://www.github.com/MitchMedeiros"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=181824&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mitchmedeiros&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=mitchmedeiros&theme=react-dark)
