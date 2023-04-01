@@ -1,13 +1,9 @@
 # ![waving_hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+World!+This+is+Mitchell+%7C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
-<img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="60" align="right"/>
 
 <div>
 # ![waving_hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=4000&pause=1500&multiline=true&width=1000&lines=Hello+World!+This+is+Mitchell+%7C++Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="60" align="right"/>
-
-<a href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand></a>
 
 ### I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. I'm also excited by quantitative trading and financial modeling.
 
