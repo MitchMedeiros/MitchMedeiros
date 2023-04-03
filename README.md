@@ -1,23 +1,28 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=50>&nbsp;
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=4000&pause=1500&multiline=true&width=628&lines=Hello+World!+%7C++Welcome+to+my+GitHub+profile">&nbsp;
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" inert="true">
 </div>
 
 ```python
 I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. 
 I'm also excited by quantitative trading and financial modeling.
 ```
-&nbsp;&nbsp; 📚 Currently learning Tableau and Plotly Dash
 
-&nbsp;&nbsp; 💹 I'm working on a [trading optimization app](https://backtest.fi)
+<details open="true" align="center">
+<summary><h3>About Me</h3></summary>
+    
+📚 Currently learning Tableau and Plotly Dash
+    
+💹 I'm working on a [trading optimization app](https://backtest.fi) 
 
-&nbsp;&nbsp; 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
+🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
 
-&nbsp;&nbsp; 🏔️ I love extreme sports, cats 🐈, chess ♟️, and spicy food! 🌶️
+🏔️ I love extreme sports, cats 🐈, chess ♟️, and spicy food! 🌶️
+</details>
 
-<div>
-    <br>&nbsp;
+<div align="center">
+    <br>
     <a href="https://www.linkedin.com/in/mitchell-medeiros/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link">
     </a>
