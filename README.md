@@ -8,14 +8,13 @@
 I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. 
 I'm also excited by quantitative trading and financial modeling.
 ```
+&nbsp;&nbsp; 📚 Currently learning Tableau and Plotly Dash
 
-* 📚 Currently learning Tableau and Plotly Dash
+&nbsp;&nbsp; 💹 I'm working on a [trading optimization app](https://backtest.fi)
 
-* 📈 I'm working on a [trading optimization app](https://backtest.fi)
+&nbsp;&nbsp; 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
 
-* 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
-
-* 🏔️ I love extreme sports, cats 🐈, chess ♟️, and spicy food! 🌶️
+&nbsp;&nbsp; 🏔️ I love extreme sports, cats 🐈, chess ♟️, and spicy food! 🌶️
 
 <div>
     <br>&nbsp;
