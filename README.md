@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/8deeee6be8899a3d9a50efd0a2db4b1f51992323/images/github_icon.gif" width=55>&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=30&duration=3500&pause=1700&color=FF591B&background=FFFFFF00&width=632&height=42&lines=Hello+World!%7C++Welcome+to+my+GitHub+Profile">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=30&duration=3500&pause=1700&color=FF591B&background=FFFFFF00&width=632&height=41&lines=Hello+World!%7C++Welcome+to+my+GitHub+Profile">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/8deeee6be8899a3d9a50efd0a2db4b1f51992323/images/github_icon.gif" width="55">
 </div>
 
