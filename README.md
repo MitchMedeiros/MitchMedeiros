@@ -9,7 +9,7 @@ I'm a data analyst with a background in particle physics and a passion for data 
 I'm also excited by quantitative trading and financial modeling.
 ```
 
-* 📚 Currently learning Tableau Plotly Dash
+* 📚 Currently learning Tableau and Plotly Dash
 
 * 📈 I'm working on a [trading optimization app](https://backtest.fi)
 
