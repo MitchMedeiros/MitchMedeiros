@@ -11,14 +11,13 @@ I'm also excited by quantitative trading and financial modeling.
 
 <details open="true" align="center">
 <summary><h3>About Me</h3></summary>
-    
-📚 Currently learning Tableau and Plotly Dash
+<img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> Currently learning Tableau and Plotly Dash
     
 <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a [trading optimization app](https://backtest.fi) 
 
 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
 
-🏔️ I love extreme sports, cats 🐈, chess ♟️, and spicy food! 🌶️
+🏔️ I love extreme sports, chess, cats, and spicy food! 🌶️
 </details>
 
 <div align="center">
