@@ -14,7 +14,7 @@ I'm also excited by quantitative trading and financial modeling.
     
 📚 Currently learning Tableau and Plotly Dash
     
-💹 I'm working on a [trading optimization app](https://backtest.fi) 
+<img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/0ae3ab8693e910da70f294956f7477e9826d2ad3/images/optimization.gif" width="25"> I'm working on a [trading optimization app](https://backtest.fi) 
 
 🇺🇸 I'm based in the US but spent a lot of time abroad as well 🇨🇭🇲🇽 🇦🇱
 
