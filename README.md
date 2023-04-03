@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=50>&nbsp;
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=30&duration=3500&pause=1700&color=FF591B&background=FFFFFF00&width=632&lines=Hello+World!%7C++Welcome+to+my+GitHub+Profile">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=55>&nbsp;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=30&duration=3500&pause=1700&color=FF591B&background=FFFFFF00&width=632&height=42&lines=Hello+World!%7C++Welcome+to+my+GitHub+Profile">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="55">
 </div>
 
 ```python
