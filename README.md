@@ -9,7 +9,7 @@ I'm a data analyst with a background in particle physics and a passion for data 
 I'm also excited by quantitative trading and financial modeling.
 ```
 
-<h4 align="center">About Me</h4>
+<h3 align="center">About Me</h3>
 <div align="center">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> Currently learning Tableau and Plotly Dash
     <br>
