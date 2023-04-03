@@ -64,7 +64,7 @@ I'm also excited by quantitative trading and financial modeling.
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=tokyonight-duo&hide_border=true&border_radius=40">
-    <img src="https://media1.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif?cid=ecf05e47meru8m5ql11q0ilubiugolyu8cqrlqanbjnj5xh5&rid=giphy.gif&ct=g" width="175">
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/f555577ccb1a171db4ebcfa82f09b643eaf16f55/images/spicy_data.gif" width="190">
     <br></br>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=00b2ff00&color=b600ff&line=00ccfa90&point=00b2ff&area=true&hide_border=true">
 </div>
