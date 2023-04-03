@@ -9,8 +9,8 @@ I'm a data analyst with a background in particle physics and a passion for data 
 I'm also excited by quantitative trading and financial modeling.
 ```
 
-<details open="true" align="center">
-    <summary><h3>About Me</h3></summary>
+<h4 align="center">About Me</h4>
+<div align="center">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> Currently learning Tableau and Plotly Dash
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href=https://backtest.fi>trading optimization app</a>
@@ -18,8 +18,8 @@ I'm also excited by quantitative trading and financial modeling.
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/4e6e67762c92f63519cdb23d5d7ff9cd2eff05ee/images/earth.gif" width="25"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
     <br> 
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/897d620368d5be0324c2ac470b7ff3cff61a9a55/images/ice_axe.gif" width="25"> I love extreme sports, chess, cats, and spicy food! 🌶️
-</details>
-
+</div>
+    
 <div align="center">
     <br>
     <a href="https://www.linkedin.com/in/mitchell-medeiros/">
