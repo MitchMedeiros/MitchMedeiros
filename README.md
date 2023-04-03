@@ -65,7 +65,7 @@ I'm also excited by quantitative trading and financial modeling.
 <img src="https://media1.giphy.com/media/FSzLVme5Y3n3LMOiqP/giphy.gif?cid=ecf05e47meru8m5ql11q0ilubiugolyu8cqrlqanbjnj5xh5&rid=giphy.gif&ct=g" width="175">
 </div>
 
-![Stats Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=5cf1e700&color=7c00ff80&line=00ccfa90&point=00b2ff&area=true&hide_border=true")
+![Stats Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MitchMedeiros&bg_color=00b2ff00&color=b600ff&line=00ccfa90&point=00b2ff&area=true&hide_border=true")
 
     
     
