@@ -4,15 +4,16 @@
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/8deeee6be8899a3d9a50efd0a2db4b1f51992323/images/github_icon.gif" width="55">
 </div>
 
-```python
-I'm a data analyst with a background in particle physics and a passion for data and quantitative analysis. 
-I'm also excited by quantitative trading and financial modeling.
-```
+<h4 align="center">
+I'm a data analyst with a background in particle physics and a passion for quantitative analysis.
+    
+I'm also excited by financial modeling and quantitative trading.
+</h4>
 
 <div align="center">
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> Currently learning Tableau and Plotly Dash
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently learning Plotly Dash and Tableau
     <br>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href=https://backtest.fi>trading optimization app</a>
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href=https://backtest.fi>trading optimization web app</a>
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/4e6e67762c92f63519cdb23d5d7ff9cd2eff05ee/images/earth.gif" width="25"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
     <br> 
