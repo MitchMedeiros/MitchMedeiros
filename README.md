@@ -4,11 +4,11 @@
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/8deeee6be8899a3d9a50efd0a2db4b1f51992323/images/github_icon.gif" width="55">
 </div>
 
-<h4 align="center">
+<h3 align="center">
 I'm a data analyst with a background in particle physics and a passion for quantitative analysis.
     
 I'm also excited by financial modeling and quantitative trading.
-</h4>
+</h3>
 
 <div align="center">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently learning Plotly Dash and Tableau
