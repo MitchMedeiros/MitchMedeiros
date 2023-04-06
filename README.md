@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=4000&pause=50&color=26F6F7&center=true&multiline=true&repeat=false&width=915&height=120&lines=Hi+I'm+Mitchell%2C+a+data+analyst+with+a+background+in+particle+physics;and+a+passion+for+quantitative+analysis.+I'm+also+excited+by+financial;modeling+and+quantitative+trading.+Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=4000&pause=50&color=08BFF7&center=true&multiline=true&repeat=false&width=915&height=120&lines=Hi+I'm+Mitchell%2C+a+data+analyst+with+a+background+in+particle+physics;and+a+passion+for+quantitative+analysis.+I'm+also+excited+by;financial+modeling+and+quantitative+trading.+Welcome+to+my+GitHub!">
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@
 ### &nbsp;`GitHub Stats`
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400&currStreakNum=EB7A2B&currStreakLabel=EB7A2B&sideNums=26F6F7&sideLabels=EB7A2B&ring=26F6F7&fire=EB7A2B&dates=EB3E2B">
+    <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400&currStreakNum=EB7A2B&currStreakLabel=EB7A2B&sideNums=08BFF7&sideLabels=EB7A2B&ring=26D4F7&fire=EB7A2B&dates=EB3E2B">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/f555577ccb1a171db4ebcfa82f09b643eaf16f55/images/spicy_data.gif" width="190">
 </div>
 
