@@ -22,7 +22,7 @@
     </a>
 </div>
 
-### &nbsp;`Skills:`
+### &nbsp;`Skills`
 
 <div align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
