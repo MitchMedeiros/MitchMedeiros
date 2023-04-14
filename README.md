@@ -55,8 +55,7 @@
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/dbeaver.png" height="45" width="50">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44">&nbsp;&nbsp;
-width="42">    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44"> 
 </div>
 
 ### &nbsp;`GitHub Stats`
