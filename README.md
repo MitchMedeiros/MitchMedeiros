@@ -25,26 +25,27 @@
 ### &nbsp;`Skills`
 
 <div align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.python.org/"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.postgresql.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44">
     </a>&nbsp;
+    <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
+    </a>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg"width="44">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48">&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+    <a href="https://flask.palletsprojects.com/en/2.0.x/">
         <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/127afd4944fe5732f6d76496687e25aa7007156c/images/flask.png" width="38">
     </a>&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44">
     </a>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/apache.png" width="58" height="37">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="55">
