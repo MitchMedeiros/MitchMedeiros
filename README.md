@@ -25,46 +25,46 @@
 ### &nbsp;`Skills`
 
 <div align="center">
-    <a href="https://www.python.org/"> 
+    <a href="https://www.python.org/" alt="Python" title="Python"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.postgresql.org/">
+    <a href="https://www.postgresql.org/" alt="PostgreSQL" title="PostgreSQL">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.mysql.com/">
+    <a href="https://www.mysql.com/" alt="MySQL" title="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
     </a>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg"width="44">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48">&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/">
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" alt="timescaleDB" title="timescaleDB">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg"width="44" alt="Redis" title="Redis">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" alt="Pandas" title="Pandas">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" alt="Plotly" title="Plotly">&nbsp;
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" title="Flask">
         <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/127afd4944fe5732f6d76496687e25aa7007156c/images/flask.png" width="38">
     </a>&nbsp;
-    <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/" alt="Git" title="Git">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44">
     </a>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/apache.png" width="58" height="37">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="55">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47" alt="Docker" title="Docker">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" title="HTML5">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42" alt="REST" title="REST">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/apache.png" width="58" height="37" alt="Apache HTTP" title="Apache HTTP">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="55" alt="Latex" title="Latex">
     <br></br>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/dbeaver.png" height="45" width="50">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44">&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="42">
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42" alt="Excel" title="Excel">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" alt="VS Code" title="VS Code">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44" alt="Jupyter" title="Jupyter">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/dbeaver.png" height="45" width="50" alt="DBeaver" title="DBeaver">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42" alt="VIM" title="VIM">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="Linux" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" alt="Wordpress" title="Wordpress">&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="42" alt="Notion" title="Notion">
 </div>
 
 ### &nbsp;`GitHub Stats`
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400&currStreakNum=EB7A2B&currStreakLabel=EB7A2B&sideNums=08BFF7&sideLabels=EB7A2B&ring=26D4F7&fire=EB7A2B&dates=EB3E2B">
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/f555577ccb1a171db4ebcfa82f09b643eaf16f55/images/spicy_data.gif" width="190">
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/f555577ccb1a171db4ebcfa82f09b643eaf16f55/images/spicy_data.gif" width="190" alt="some serious spiciness" title="some serious spiciness">
 </div>
 
     
