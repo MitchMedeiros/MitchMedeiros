@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently learning Plotly Dash and Tableau
     <br>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href=https://backtest.fi>trading optimization web app</a>
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/4e6e67762c92f63519cdb23d5d7ff9cd2eff05ee/images/earth.gif" width="25"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
     <br> 
@@ -14,10 +14,10 @@
     
 <div align="center">
     <br>
-    <a href="https://www.linkedin.com/in/mitchell-medeiros/">
+    <a href="https://www.linkedin.com/in/mitchell-medeiros/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link">
     </a>
-    <a href="https://mitchm.net/">
+    <a href="https://mitchm.net/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About&logoColor=white" alt="Portfolio Link">
     </a>
 </div>
@@ -25,23 +25,23 @@
 ### &nbsp;`Skills`
 
 <div align="center">
-    <a href="https://www.python.org/" alt="Python" title="Python"> 
+    <a href="https://www.python.org/" target="_blank" alt="Python" title="Python"> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.postgresql.org/" alt="PostgreSQL" title="PostgreSQL">
+    <a href="https://www.postgresql.org/" target="_blank" alt="PostgreSQL" title="PostgreSQL">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.mysql.com/" alt="MySQL" title="MySQL">
+    <a href="https://www.mysql.com/" target="_blank" alt="MySQL" title="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
     </a>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" alt="timescaleDB" title="timescaleDB">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg"width="44" alt="Redis" title="Redis">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" alt="Pandas" title="Pandas">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" alt="Plotly" title="Plotly">&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" title="Flask">
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" alt="Flask" title="Flask">
         <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/127afd4944fe5732f6d76496687e25aa7007156c/images/flask.png" width="38">
     </a>&nbsp;
-    <a href="https://git-scm.com/" alt="Git" title="Git">
+    <a href="https://git-scm.com/" target="_blank" alt="Git" title="Git">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44">
     </a>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47" alt="Docker" title="Docker">&nbsp;
