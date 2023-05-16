@@ -15,10 +15,10 @@
 <div align="center">
     <br>
     <a href="https://www.linkedin.com/in/mitchell-medeiros/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" title="LinkedIn Link">
     </a>
     <a href="https://mitchm.net/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About&logoColor=white" alt="Portfolio Link">
+        <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About&logoColor=white" alt="Portfolio Link" title="Portfolio Link">
     </a>
 </div>
 
@@ -36,7 +36,8 @@
     </a>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" alt="timescaleDB" title="timescaleDB">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg"width="44" alt="Redis" title="Redis">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" alt="Pandas" title="Pandas">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" width="46" alt="Numpy" title="Numpy">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="49" alt="Pandas" title="Pandas">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" alt="Plotly" title="Plotly">&nbsp;
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" alt="Flask" title="Flask">
         <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/127afd4944fe5732f6d76496687e25aa7007156c/images/flask.png" width="38">
@@ -64,7 +65,7 @@
 ### &nbsp;`GitHub Stats`
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400&currStreakNum=EB7A2B&currStreakLabel=EB7A2B&sideNums=08BFF7&sideLabels=EB7A2B&ring=26D4F7&fire=EB7A2B&dates=EB3E2B">
+    <img src="https://streak-stats.demolab.com?user=MitchMedeiros&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EB545400&currStreakNum=EB7A2B&currStreakLabel=EB7A2B&sideNums=08BFF7&sideLabels=EB7A2B&ring=26D4F7&fire=EB7A2B&dates=EB3E2B" alt="Contribution Stats" title="Contribution Stats">
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/f555577ccb1a171db4ebcfa82f09b643eaf16f55/images/spicy_data.gif" width="190" alt="some serious spiciness" title="some serious spiciness">
 </div>
 
