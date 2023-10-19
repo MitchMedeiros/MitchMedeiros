@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=4000&pause=50&color=08BFF7&center=true&multiline=true&repeat=false&width=915&height=120&lines=Hi+I'm+Mitchell%2C+a+data+analyst+with+a+background+in+particle+physics;and+a+passion+for+quantitative+analysis.+I'm+also+excited+by;financial+modeling+and+quantitative+trading.+Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=4000&pause=50&color=08BFF7&center=true&multiline=true&repeat=false&width=990&height=120&lines=Hi+I'm+Mitchell%2C+a+data+analyst+with+a+background+in+particle+physics;and+a+passion+for+quantitative+analysis.+I'm+excited+by+financial;modeling,+quantitative+trading,+and+machine+learning.+Welcome+to+my+GitHub!">
 </div>
 
 <div align="center">
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently learning Plotly Dash and Tableau
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a data processing tool for financial ML models
     <br>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> I'm working on a <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/4e6e67762c92f63519cdb23d5d7ff9cd2eff05ee/images/earth.gif" width="25"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
     <br> 
