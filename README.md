@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=3000&pause=10&color=08BFF7&center=true&multiline=true&repeat=false&width=1100&height=140&lines=Hi+I'm+Mitchell%2C+a+software+developer+with+a+background+in;particle+physics+and+a+passion+for+quantitative+analysis.;I'm+excited+by+machine+learning,+financial+modeling,+and+quantitative+trading.;Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=3000&pause=10&color=08BFF7&center=true&multiline=true&repeat=false&width=1100&height=140&lines=Hi+I'm+Mitchell%2C+a+software+developer+with+a+background+in;particle+physics+and+a+passion+for+quantitative+analysis.;I'm+excited+by+machine+learning,+data+science,+and+quantitative+trading.;Welcome+to+my+GitHub!">
 </div>
 
 <div align="center">
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a data processing tool for financial ML models
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a chat assistant for my personal website
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
