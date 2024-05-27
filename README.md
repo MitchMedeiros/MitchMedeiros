@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a chat assistant for my personal website
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a web application for comparing ML models and architectures
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
@@ -22,49 +22,34 @@
     </a>
 </div>
 
-
-
 ### &nbsp;`Skills`
 
 <div align="center">
-    <a title="AWS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44">
-    </a>&nbsp;
-    <a target="_blank" title="Python">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44">
-    </a>&nbsp;
-    <a target="_blank" title="PostgreSQL">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44">
-    </a>&nbsp;
-    <a target="_blank" title="MySQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
-    </a>&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" title="timescaleDB">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg" width="44" title="Redis">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" width="46" title="Numpy">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="49" title="Pandas">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" title="Plotly">&nbsp;
-    <a target="_blank" title="Flask">
-        <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/368903461887293725329d106caea286b970cc00/images/flask-white-verticle.png" width="38">
-    </a>&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42" title="REST">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" alt="AWS" title="AWS">&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" alt="Python" title="Python">&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58" alt="MySQL" title="MySQL">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" alt="timescaleDB" title="timescaleDB">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/5a30a3afee65952c58b245be1c7b07e55eb920eb/images/redis.svg" width="44" alt="Redis" title="Redis">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" width="46" alt="Numpy" title="Numpy">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="49" alt="Pandas" title="Pandas">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" alt="Plotly" title="Plotly">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/368903461887293725329d106caea286b970cc00/images/flask-white-verticle.png" width="38" alt="Flask" title="Flask">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42" alt="REST API" title="REST API">&nbsp;
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47" title="Docker">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/apache.png" width="58" height="37" title="Apache HTTP">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="44" title="Bash">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42" title="VIM">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5">&nbsp;
-    <a target="_blank" title="Git">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44">
-    </a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="47" alt="Docker" title="Docker">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/apache.png" width="58" height="37" alt="Apache HTTP" title="Apache HTTP">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="Linux" title="Linux">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="44" alt="Bash" title="Bash">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42" alt="Vim" title="Vim">&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML" title="HTML">&nbsp;
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="44">&nbsp;
     <br>
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42" title="Excel">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44" title="Jupyter">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="57" title="Latex">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" title="Wordpress">
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42" alt="Excel" title="Excel">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44" alt="Jupyter" title="Jupyter">&nbsp;
+    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="57" alt="LaTeX" title="LaTeX">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" alt="Wordpress" title="Wordpress">
 </div>
-
 
 ### &nbsp;`GitHub Stats`
 
