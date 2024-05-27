@@ -39,9 +39,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" alt="AWS" title="AWS">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="54" alt="Docker" title="Docker">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" title="Git">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42" alt="REST API" title="REST API">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/kafka.svg" width="44" alt="Apache Kafka" title="Apache Kafka">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="44" alt="Apache HTTP" title="Apache HTTP">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b7f890d58880a33af9e00a1145d206d5776f139b/images/rest-logo.png" width="62" height="36" alt="REST API" title="REST API">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/kafka.svg" width="44" alt="Apache Kafka" title="Apache Kafka">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="44" alt="Apache HTTP" title="Apache HTTP">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="Linux" title="Linux">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="44" alt="Bash" title="Bash">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML" title="HTML">&nbsp;
