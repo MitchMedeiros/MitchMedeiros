@@ -30,37 +30,41 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" title="C">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="42" alt="Swift" title="Swift">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="54" alt="MySQL" title="MySQL">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/mysql-big.png" width="44" alt="MySQL" title="MySQL">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/oracledb.png" width="60" height="40" alt="Oracle Database" title="Oracle Database">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" alt="Redis" title="Redis">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" alt="timescaleDB" title="timescaleDB">&nbsp;
     <br>
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" alt="AWS" title="AWS">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" alt="AWS" title="AWS">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="54" alt="Docker" title="Docker">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" title="Git">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b7f890d58880a33af9e00a1145d206d5776f139b/images/rest-logo.png" width="62" height="36" alt="REST API" title="REST API">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/kafka.svg" width="44" alt="Apache Kafka" title="Apache Kafka">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="44" alt="Apache HTTP" title="Apache HTTP">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" alt="Linux" title="Linux">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="44" alt="Bash" title="Bash">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/bash-white.png" width="44" alt="Bash" title="Bash">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML" title="HTML">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS" title="CSS">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/wordpress.svg" width="44" alt="Wordpress" title="Wordpress">
     <br>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" alt="Numpy" title="Numpy">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/pandas-white.svg" width="42" alt="Pandas" title="Pandas">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="58" alt="scikit-learn" title="scikit-learn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" alt="Plotly" title="Plotly">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" alt="Matplotlib" title="Matplotlib">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@368903461887293725329d106caea286b970cc00/images/flask-white-verticle.png" width="38" alt="Flask" title="Flask">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uwsgi/uwsgi-plain.svg" width="44" alt="uWSGI" title="uWSGI">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" alt="Matplotlib" title="Matplotlib">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="38" alt="Plotly" title="Plotly">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/dash.png" width="48" alt="Plotly Dash" title="Plotly Dash">&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@368903461887293725329d106caea286b970cc00/images/flask-white-verticle.png" width="38" alt="Flask" title="Flask">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/polars.png" width="58" alt="Polars" title="Polars">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/qiskit-white.png" width="46" alt="Qiskit" title="Qiskit">&nbsp;
+    <br>
+    <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" alt="Postman" title="Postman">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44" alt="Jupyter" title="Jupyter">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="58" alt="LaTeX" title="LaTeX">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/jupyter-white.png" width="50" alt="Jupyter" title="Jupyter">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42" alt="Excel" title="Excel">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="58" alt="LaTeX" title="LaTeX">&nbsp;
 </div>
 
 ### &nbsp;`GitHub Stats`
