@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=26&duration=3000&pause=10&color=08BFF7&center=true&multiline=true&repeat=false&width=1100&height=140&lines=Hi+I'm+Mitchell%2C+a+software+developer+with+a+background+in;particle+physics+and+a+passion+for+quantitative+analysis.;I'm+excited+by+machine+learning,+data+science,+and+quantitative+trading.;Welcome+to+my+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&duration=3000&pause=10&color=08BFF7&center=true&multiline=true&repeat=false&width=1100&height=140&lines=Hi+I'm+Mitchell%2C+a+software+developer+with+a+background+in;particle+physics+and+a+passion+for+quantitative+analysis.;I'm+excited+by+machine+learning,+data+science,+and+quantitative+finance.;Welcome+to+my+GitHub!">
 </div>
 
 <div align="center">
