@@ -27,13 +27,16 @@
 ### &nbsp;`Skills`
 
 <div align="center">
-    <a href="https://www.python.org/" target="_blank" title="Python">
+    <a title="AWS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44">
+    </a>&nbsp;
+    <a target="_blank" title="Python">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <a target="_blank" title="PostgreSQL">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44">
     </a>&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <a target="_blank" title="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="58">
     </a>&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/664b3df1516e08ff92baf0053972dd7e979bfb43/images/timescale.png" width="70" title="timescaleDB">&nbsp;
@@ -41,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" width="46" title="Numpy">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="49" title="Pandas">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/a8e9127b995bd88ab5a1ed8fa0159bc90631f9e6/images/plotly.png" width="48" title="Plotly">&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" title="Flask">
+    <a target="_blank" title="Flask">
         <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/368903461887293725329d106caea286b970cc00/images/flask-white-verticle.png" width="38">
     </a>&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/bfe35ab4179d36e9645c7da3d1a12fd685f46e62/images/rest_api.png" width="60" height="42" title="REST">&nbsp;
@@ -52,14 +55,12 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width="44" title="Bash">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="42" title="VIM">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5">&nbsp;
-    <a href="https://git-scm.com/" target="_blank" title="Git">
+    <a target="_blank" title="Git">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44">
     </a>&nbsp;
     <br>
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/excel.svg" width="42" title="Excel">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" title="VS Code">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="44" title="Jupyter">&nbsp;
-    <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/b7394bf710312c6604f79b29cf22c885fc9b37cc/images/dbeaver.png" height="45" width="50" title="DBeaver">&nbsp;
     <img src="https://github.com/MitchMedeiros/MitchMedeiros/blob/cac9f6b38a08ce51568a84c2ee2e67459ad39fcf/images/latex.png" width="57" title="Latex">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="44" title="Wordpress">
 </div>
