@@ -48,7 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/bash.png" width="44" alt="Bash" title="Bash">&nbsp;
     <br>
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@e0c5d49bcd3f766ac504ab132d5019d820c6344c/images/langchain.png" width="60" alt="LangChain" title="LangChain">
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@30080978247d16fea147b1ce1a7ce15a3af1c804/images/langchain-cropped.png" width="64" alt="LangChain" title="LangChain">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="58" alt="scikit-learn" title="scikit-learn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" alt="Numpy" title="Numpy">&nbsp;
