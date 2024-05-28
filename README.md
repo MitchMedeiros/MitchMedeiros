@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@297c690241747eca3901e7fb5d2fb3fe1e541e81/images/elearn.gif" width="25"> I'm currently working on a web application for comparing ML models and architectures
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/computer.gif" width="28"> I'm currently working on a web application for comparing ML models and architectures
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@61537ee093a9681511e8e9288093a713ae484f70/images/optimize.gif" width="25"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/backtest.gif" width="28"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@4e6e67762c92f63519cdb23d5d7ff9cd2eff05ee/images/earth.gif" width="25"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/travel.gif" width="28"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
     <br> 
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@897d620368d5be0324c2ac470b7ff3cff61a9a55/images/ice_axe.gif" width="25"> I love extreme sports, chess, cats, and spicy food! 🌶️
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@19878bf93947d7976cc827c08f460699cf64e2bc/gifs/climbing.gif" width="34"> I love extreme sports, chess, cats, and spicy food! 🌶️
 </div>
     
 <div align="center">
