@@ -50,7 +50,7 @@
     <br>
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@30080978247d16fea147b1ce1a7ce15a3af1c804/images/langchain-cropped.png" width="64" alt="LangChain" title="LangChain">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="58" alt="scikit-learn" title="scikit-learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" alt="scikit-learn" title="scikit-learn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" alt="Numpy" title="Numpy">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/pandas-white.svg" width="42" alt="Pandas" title="Pandas">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/polars.png" width="58" alt="Polars" title="Polars">&nbsp;
