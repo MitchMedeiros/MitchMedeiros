@@ -25,7 +25,7 @@
 ### &nbsp;`Skills`
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" alt="Java" title="Java">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" title="C">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="42" alt="Swift" title="Swift">&nbsp;&nbsp;
@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" alt="scikit-learn" title="scikit-learn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" alt="Numpy" title="Numpy">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/pandas-white.svg" width="42" alt="Pandas" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@7fe6a29e12c49257b66354538f3e5481daea8dfe/images/pandas-white.svg" width="44" alt="Pandas" title="Pandas">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/polars.png" width="58" alt="Polars" title="Polars">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/scipy.png" width="46" alt="Scipy" title="Scipy">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" alt="Matplotlib" title="Matplotlib">&nbsp;
