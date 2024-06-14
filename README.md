@@ -40,7 +40,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="54" alt="Docker" title="Docker">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" title="Git">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/rest-logo.png" width="48" alt="REST API" title="REST API">
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/kafka.svg" width="44" alt="Apache Kafka" title="Apache Kafka">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/flink.png" width="44" alt="Apache Flink" title="Apache Flink">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="44" alt="Apache HTTP" title="Apache HTTP">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@e0c5d49bcd3f766ac504ab132d5019d820c6344c/images/openai.svg" width="44" alt="OpenAI API" title="OpenAI API">&nbsp;
