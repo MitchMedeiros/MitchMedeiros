@@ -3,13 +3,12 @@
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/mitchell-medeiros/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn Link" title="LinkedIn Link" width="110">
+        <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn Link" title="LinkedIn Link" width="93">
     </a>
     <a href="https://www.mitchm.net/" target="_blank">
-        <img src="https://img.shields.io/badge/Projects-white?style=flat" alt="Projects Link" title="Projecets Link" width="80">
+        <img src="https://img.shields.io/badge/Projects-white?style=flat" alt="Projects Link" title="Projecets Link" width="70">
     </a>
 </div>
-<br>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/computer.gif" width="28"> I'm currently working on a web application for comparing ML models and architectures
     <br>
