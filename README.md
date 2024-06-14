@@ -27,8 +27,8 @@
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" alt="Java" title="Java">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="42" alt="Scala" title="Scala">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" alt="C" title="C">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="42" alt="Swift" title="Swift">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/mysql.png" width="46" alt="MySQL" title="MySQL">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/oracle.png" width="58" alt="Oracle Database" title="Oracle Database">&nbsp;
