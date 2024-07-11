@@ -1,24 +1,15 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=5&color=05FFA5&center=true&multiline=true&repeat=false&width=1400&height=140&lines=Hi+I'm+Mitchell%2C+a+data+scientist+with+a+background+in+particle+physics+and+a+passion;for+machine+learning,+data+and+analytics,+and+quantitative+finance.;Welcome+to+my+GitHub!">
-</div>
-<div align="center">
-    <a href="https://www.linkedin.com/in/mitchell-medeiros/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn Link" title="LinkedIn Link" width="93">
-    </a>
-    <a href="https://www.mitchm.net/" target="_blank">
-        <img src="https://img.shields.io/badge/Projects-white?style=flat" alt="Projects Link" title="Projecets Link" width="70">
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=5&color=05FFA5&center=true&multiline=true&repeat=false&width=1070&height=80&lines=Hi+I'm+Mitchell%2C+a+data+scientist+with+a+background+in+particle+physics;+and+a+passion+for+ML,+analytics,+and+quantitative+finance.">
 </div>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/computer.gif" width="28"> I'm currently working on a web application for comparing ML models and architectures
     <br>
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/backtest.gif" width="28"> Check out my <a href="https://backtest.fi" target="_blank">trading optimization web app</a>
     <br>
-    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/travel.gif" width="28"> I'm based in the US but also spent a lot of time abroad 🇨🇭🇲🇽 🇦🇱
+    <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/travel.gif" width="28"> I'm based in the US but also have spent a lot of time abroad 🇨🇭 🇵🇱 🇲🇽
     <br> 
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@19878bf93947d7976cc827c08f460699cf64e2bc/gifs/climbing.gif" width="34"> I love extreme sports, chess, cats, and spicy food! 🌶️
 </div>
-<br>
 <div align="center">
     <h4><code>Languages & Databases</code></h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">
