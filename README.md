@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@19878bf93947d7976cc827c08f460699cf64e2bc/gifs/climbing.gif" width="34"> I love extreme sports, chess, cats, and spicy food! 🌶️
 </div>
 <div align="center">
-    <h4><code>Languages & Databases</code></h4>
+    <h3><code>Languages & Databases</code></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" alt="Java" title="Java">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="42" alt="Scala" title="Scala">&nbsp;&nbsp;
@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/oracle.png" width="58" alt="Oracle Database" title="Oracle Database">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" alt="Redis" title="Redis">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@b27f8f3cdbd1aabab1d1f6451a0785a75b751b20/images/pinecone.png" width="38" alt="Pinecone Vector Database" title="Pinecone Vector Database">&nbsp;
-    <h4><code>Python Libraries</code></h4>
+    <h3><code>Python Libraries</code></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" title="PyTorch">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" alt="scikit-learn" title="scikit-learn">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@30080978247d16fea147b1ce1a7ce15a3af1c804/images/langchain-cropped.png" width="64" alt="LangChain" title="LangChain">
@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/dash.png" width="48" alt="Plotly Dash" title="Plotly Dash">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/flask.png" width="40" alt="Flask" title="Flask">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/qiskit.png" width="46" alt="Qiskit" title="Qiskit">&nbsp;
-    <h4><code>Tools</code></h4>
+    <h3><code>Tools</code></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" alt="AWS" title="AWS">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="54" alt="Docker" title="Docker">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" title="Git">&nbsp;&nbsp;
@@ -51,7 +51,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS" title="CSS">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@bb4d5d24612c9d89d8e21d17665ba28a73fd626a/images/wordpress.svg" width="44" alt="Wordpress" title="Wordpress">
 </div>
-<br>
 <br>
 <div align="center">
     <h3><code>GitHub Stats</code></h3>
