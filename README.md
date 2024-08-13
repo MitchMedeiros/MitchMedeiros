@@ -33,6 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="38" alt="Plotly" title="Plotly">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/dash.png" width="48" alt="Plotly Dash" title="Plotly Dash">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/flask.png" width="40" alt="Flask" title="Flask">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="60" alt="Pytest" title="Pytest">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@6ea0fdbf7319155ce7d08f1df65e0abdae309e01/images/qiskit.png" width="46" alt="Qiskit" title="Qiskit">&nbsp;
     <h3><code>Tools</code></h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" alt="AWS" title="AWS">&nbsp;
