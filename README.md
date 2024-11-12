@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=5&color=05FFA5&center=true&multiline=true&repeat=false&width=1070&height=80&lines=Hi+I'm+Mitchell%2C+a+data+scientist+with+a+background+in+particle+physics;+and+a+passion+for+ML,+analytics,+and+quantitative+finance.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&duration=3000&pause=5&color=05FFA5&center=true&multiline=true&repeat=false&width=1110&height=80&lines=Hi+I'm+Mitchell%2C+a+software+engineer+with+a+background+in+particle+physics;+and+a+passion+for+ML,+analytics,+and+quantitative+finance.">
 </div>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/MitchMedeiros/MitchMedeiros@dee360fca49fe8937a27c5f83c8b6b78af283512/gifs/computer.gif" width="28"> I'm currently working on a web application for comparing ML models and architectures
